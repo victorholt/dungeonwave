@@ -15,6 +15,11 @@ Video: https://www.youtube.com/watch?v=INOjQGeNRaA
 ![Dungeon Map Module](./screenshots/dungeon_wave_1.png)
 ![Dungeon Map Module](./screenshots/dungeon_wave_2.png)
 
+# Credits
+
+Jeremy Bullock (FPS Camera Code)
+https://www.youtube.com/channel/UCwJw2-V5S1TkBjLQ3_Ws54g
+
 # License
 
 The MIT License (MIT)
